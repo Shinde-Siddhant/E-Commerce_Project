@@ -22,7 +22,7 @@ This project focuses on customer segmentation and customer lifetime value(CLV) a
 - Pandas, Matplotlib, Seaborn, sklearn
 
 ## Data
-- The project utilizes an e-commerce dataset containing information about customer transactions, demographics, and other relevant attributes. The dataset is available at.
+- The project utilizes an e-commerce dataset containing information about customer transactions, demographics, Product Details and other relevant attributes.
 
 ## Results
 - Customer segments identified as Silver, Gold, Diamond and Platinum based on RFM.
